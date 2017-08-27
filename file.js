@@ -1,3 +1,5 @@
+// Reading number of lines in file (synchronously)
+
 var fs = require('fs')
 
 var fd = fs.readFileSync(process.argv[2])

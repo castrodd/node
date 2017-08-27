@@ -1,3 +1,5 @@
+// Filtering list of files in directory by extension
+
 var fs = require('fs')
 
 function find_files() {

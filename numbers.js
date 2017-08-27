@@ -1,3 +1,6 @@
+// Second Exercise
+// Adding numbers from commmand line input
+
 var arr = process.argv
 var sum = 0;
 

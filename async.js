@@ -1,3 +1,5 @@
+// Reading number of lines in file (asynchronously)
+
 var fs = require('fs')
 
 function addLines() {

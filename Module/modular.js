@@ -1,3 +1,5 @@
+// Module to filter list of files on directory
+
 var fs = require('fs')
 
 module.exports = function (dir, ext, callback) {
