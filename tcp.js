@@ -1,6 +1,6 @@
 net = require('net')
 
-var server = net.createServer(function (socket) {
+var server = net.createServer(function(socket) {
   // Create custom date formatter
   var date = new Date();
   var year = date.getFullYear().toString();
